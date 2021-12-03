@@ -1,4 +1,18 @@
-![](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638494944950-1.png)
+<div align = "center">
+    <h1>LeetCode-Offer</h1>
+</div
+>
+<p align="center">
+    <img src="https://gitee.com/veal98/images/raw/master/img/20210916170312.png" >
+</p>
+
+<div align = "center">
+    <p align="center">
+        <a href="#-关于我"><img src="https://img.shields.io/badge/公众号-奔跑吧阿冰-orange" alt="公众号"></a>
+        <a href="#-刷题打卡"><img src="https://img.shields.io/badge/冲刺大厂-刷题打卡-brightgreen" alt="LeetCode_Offer"></a>
+        <a href="https://gitee.com/Datalong/datalong-rpc-framework"><img src="https://img.shields.io/badge/备战校招-开源社区项目-blueviolet" alt="配套教程"></a>
+    </p>
+</div>
 
 ##  :coffee: 关于仓库
 仓库地址
