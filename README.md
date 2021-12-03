@@ -48,3 +48,13 @@ CS-Notes (cyc2018.xyz) 这个就不用多说了
 博主某双非院校二本实习，成长的 Javaer, 芸芸众生中的普通学子，热爱健身和音乐，最大的梦想就是赚很多钱。
 
 我的公众号：奔跑吧阿冰，2021/2/29 日开通，专注于分享计算机基础（数据结构 + 算法 + 计算机网络 + 数据库 + 操作系统 + Linux）和 Java 相关技术栈的原创技术好文，让大家可以快速掌握重点知识，有的放矢。下方扫码关注第一时间获取干货更新：
+
+![wecheat](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638490093602-1.jpg)
+
+### wecheat
+
+![2](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638491510975-2.jpg)
+
+### wakatime 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Datalong)](https://github.com/anuraghazra/github-readme-stats)
+
