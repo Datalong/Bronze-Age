@@ -39,7 +39,7 @@ CS-Notes (cyc2018.xyz) 这个就不用多说了
 - 回溯算法
 - 贪心算法
 - 动态规划
-## :tw-1f449:  刷题小 建议
+##:tw-1f449:  刷题小 建议
 大伙儿刷题的时候可以把收藏点起来，新建两个列表 A 和 B，刷过的题目全部放在列表 A 中，其中不会做的题目或者有一些小问题的题目放在另一个列表 B 里，二刷三刷的时候，会做的题目就从第二个列表 B 里面踢出去，这样会比较清晰。
 ## 刷题打卡
 下方扫码关注公众号【码工是小希】回复 学习小组 免费进入学习小组，连续打卡 21 天还能拿红包呀，已经有 100+ 小伙伴在这里啦，快加入我们吧
@@ -56,5 +56,5 @@ CS-Notes (cyc2018.xyz) 这个就不用多说了
 ![2](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638491510975-2.jpg)
 
 ### wakatime 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Datalong)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Datalong)](https://github.com/Datalong/LeetCode_Offer)
 
