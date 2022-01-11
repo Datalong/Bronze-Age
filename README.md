@@ -70,8 +70,6 @@ CS-Notes (cyc2018.xyz) 这个就不用多说了 datalongde
 
 ### wecheat
 
-![2](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638491510975-2.jpg)
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
